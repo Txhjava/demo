@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hot_fix commit");
         System.out.println("hot_fix commit again");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
